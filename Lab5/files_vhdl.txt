@@ -1,0 +1,2 @@
+src/Lab_5.vhd
+src/test.vhd
