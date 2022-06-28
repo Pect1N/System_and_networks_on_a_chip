@@ -1,2 +1,0 @@
-src/Test.vhd
-src/Lab_2.vhd
