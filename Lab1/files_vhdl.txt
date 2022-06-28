@@ -1,0 +1,6 @@
+src/O.vhd
+src/N.vhd
+src/A.vhd
+src/Lab_1.vhd
+src/Lab_1.1.vhd
+src/test.vhd
